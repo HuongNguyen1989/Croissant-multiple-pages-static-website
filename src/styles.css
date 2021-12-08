@@ -1,0 +1,25 @@
+body {
+  background: #f8f4ff;
+  font-family: "Cerebri Sans", Helvetica, Arial, sans-serif;
+  text-align: center;
+  margin: 20px auto;
+  max-width: 60%;
+}
+a {
+  color: #885df1;
+  text-decoration: none;
+  padding: 20px;
+}
+a.email {
+  padding: 5px;
+  text-decoration: underline;
+}
+h1 {
+  padding: 10px 20px;
+  color: #272044;
+  font-size: 52px;
+}
+
+p {
+  font-family: "PT Mono", monospace;
+}
